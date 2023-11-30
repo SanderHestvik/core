@@ -1,0 +1,13 @@
+{
+  "domain": "webex_xapi",
+  "name": "Webex XAPI",
+  "codeowners": ["@SanderHestvik"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/webex_xapi",
+  "homekit": {},
+  "iot_class": "local_push",
+  "requirements": ["xows==1.0.5"],
+  "ssdp": [],
+  "zeroconf": []
+}

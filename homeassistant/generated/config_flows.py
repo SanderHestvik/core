@@ -543,6 +543,7 @@ FLOWS = {
         "waze_travel_time",
         "weatherflow",
         "weatherkit",
+        "webex_xapi",
         "webostv",
         "wemo",
         "whirlpool",
